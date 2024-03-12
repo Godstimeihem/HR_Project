@@ -1,0 +1,7 @@
+1. Gender break down of the staffs.
+2. How many people are in each job?
+3. Qualification vs Salary.
+4. what's the total head count?
+5. what's the average salary?
+6. Leave balance analysis.
+7. Quick HR Dashboard.
